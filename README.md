@@ -1,2 +1,2 @@
-# ng-animations
-angular animations
+# react-animations
+animations
